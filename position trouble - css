@@ -10,14 +10,14 @@ width: 1vw;
 height: 1vh;
 border: 0.5px solid #000;
 }
+
+.p1 {
+  background-color: green;
+}
 .item {
   background-color: aquamarine;
   position: relative;
   margin-top: -5px;
-}
-
-.p1 {
-  background-color: green;
 }
 .p2 {
   background-color: lightblue;
