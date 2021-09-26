@@ -1,0 +1,25 @@
+.container {
+  background-color: pink;
+  padding : 5vh;
+}
+.container2 {
+  background-color: lightyellow;
+}
+.item, .p1, .p2 {
+width: 1vw;
+height: 1vh;
+border: 0.5px solid #000;
+}
+.item {
+  background-color: aquamarine;
+  position: relative;
+  margin-top: -5px;
+}
+
+.p1 {
+  background-color: green;
+}
+.p2 {
+  background-color: lightblue;
+  margin-top: -5px;
+}
