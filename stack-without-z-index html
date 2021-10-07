@@ -7,6 +7,6 @@
 </head>
 <body>
    <img src= 'img3.jpg'>
-  <div class = item > </div>
+  <div class = 'square' > </div>
 </body>
 </html>
